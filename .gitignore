@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+data/*.db
+logs/
+*.log
+.venv/
+.idea/
+.vscode/
+exports/
